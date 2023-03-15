@@ -1,5 +1,3 @@
-#***welcome to my world  ***
-
 
   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h1 align="center">Hi 👋, I'm Dinw</h1>
