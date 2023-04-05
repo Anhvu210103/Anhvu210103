@@ -1,21 +1,5 @@
-
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h1 align="center">Hi 👋, I'm Dinw</h1>
-
-🎂 i was born in 2003
-
-
-- 🔭 I’m currently studying in **UIT**
-
-
- 🙉 I am fresh man in UIT (began in 2021)
-
-  🐱‍👓Trying to learn python, HTML,...
-
-
 - 📫 How to reach me **anhvuducvn@gmail.com**
-
-- ⚡ Fun fact **I think i am in Malnutrion :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
